@@ -2,8 +2,11 @@
 Very simple HTML page that is used for anonymous redirect.
 
 - Just 1 (one) line :)
-- redirect quickly, and
-- without tracking.
+- pure html,
+- redirect quickly,
+- no css,
+- no javascript, and
+- no tracking.
 
 ```html
 <!-- redirect quickly -->
@@ -20,4 +23,4 @@ Very simple HTML page that is used for anonymous redirect.
 ```
 
 ## Live Demo
-[syahravi.my.id/github](https://syahravi.my.id/00) >> redirect to `syahravi github profile`.
+[syahravi.my.id/github](https://syahravi.my.id/github) >> redirect to github.com/syahravi `syahravi github profile`.
