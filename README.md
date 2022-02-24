@@ -20,4 +20,4 @@ Very simple HTML page that is used for anonymous redirect.
 ```
 
 ## Live Demo
-[syahravi.my.id/00](https://syahravi.my.id/00) >> redirect to `syahravi github profile`.
+[syahravi.my.id/github](https://syahravi.my.id/00) >> redirect to `syahravi github profile`.
