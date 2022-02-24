@@ -19,7 +19,7 @@ Very simple HTML page that is used for anonymous redirect.
 <!-- file index.html localy-->
 
 <!-- redirect to syahravi.my.id quickly -->
-<meta http-equiv="refresh" content="0; url=https://syahravi.my.id">
+<meta http-equiv="refresh" content="0; url=https://syahravi.my.id/github">
 ```
 
 ## Live Demo
