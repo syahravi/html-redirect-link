@@ -17,10 +17,12 @@ Very simple HTML page that is used for anonymous redirect.
 
 ```html
 <!-- file index.html localy-->
-
-<!-- redirect to syahravi.my.id quickly -->
-<meta http-equiv="refresh" content="0; url=https://syahravi.my.id/github">
+<head>
+...
+<meta http-equiv="refresh" content="0; url=https://github.com/syahravi">
+...
+</head>
 ```
 
 ## Live Demo
-[syahravi.my.id/github](https://syahravi.my.id/github) >> redirect to github.com/syahravi `syahravi github profile`.
+[syahravi.my.id/github](https://syahravi.my.id/github)
