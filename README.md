@@ -1,7 +1,7 @@
 # HTML Redirect link
 Very simple HTML page that is used for anonymous redirect.
 
-- Just 1 (one) line :)
+- Just 1 (one) line,
 - pure html,
 - redirect quickly,
 - no css,
