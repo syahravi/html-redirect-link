@@ -23,6 +23,3 @@ Very simple HTML page that is used for anonymous redirect.
 ...
 </head>
 ```
-
-## Live Demo
-[syahravi.my.id/github](https://syahravi.my.id/github)
